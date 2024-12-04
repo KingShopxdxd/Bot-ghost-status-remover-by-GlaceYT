@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Kings Shop","No te arrepentiras!"];
+const statusMessages = ["Bot Oficial","Muy pronto la gran apertura 🌌","👉  play.constelamc.com "];
 
 
 let currentIndex = 0;
